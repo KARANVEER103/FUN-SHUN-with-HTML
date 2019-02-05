@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>some basic tags</title>
+</head>
+<body>
+this is writing in html
+
+paragraphs tag:>
+
+<p>this is PARAGRAPH tag</p>
+<p>we can add multiple lines using p tag</p>
+
+tags for headings:>
+
+<h1>this is the heading(h1) tag</h1>
+<h2>this is the heading(h2) tag</h2>
+<h3>this is the heading(h3) tag</h3>
+<h4>this is the heading(h4) tag</h4>
+<h5>this is the heading(h5) tag</h5>
+<h6>this is the heading(h6) tag</h6>
+
+</body>
+</html>
