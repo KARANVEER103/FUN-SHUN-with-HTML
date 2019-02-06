@@ -20,5 +20,13 @@ tags for headings:>
 <h5>this is the heading(h5) tag</h5>
 <h6>this is the heading(h6) tag</h6>
 
+pre tag is used to write in different lines like a poem
+
+<pre>
+my name is karanveer singh
+i love to code
+i am 19 years old
+</pre>
+
 </body>
 </html>
